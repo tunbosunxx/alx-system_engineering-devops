@@ -1,7 +1,2 @@
-[master (root-commit) 6075500] first shell script
- 1 file changed, 1 insertion(+)
- create mode 100644 0x00-shell_basics/0-current_working_directory
-0-current_working_directory
-README.md
 0-current_working_directory
 README.md
